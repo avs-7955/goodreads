@@ -1,1 +1,1 @@
-# Goodreads Website redesign (Currently in development)
+# Goodreads redesign (Currently in development)
