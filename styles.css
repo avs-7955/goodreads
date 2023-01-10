@@ -11,10 +11,6 @@ body {
 }
 section {
     min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    /* align-items: center; */
-    /* flex-direction: column; */
 }
 
 /* Navbar */
@@ -30,4 +26,11 @@ nav {
 .bookshelf {
     height: 50%;
     max-width: 100%;
+}
+.mobile {
+    position: relative;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
 }
