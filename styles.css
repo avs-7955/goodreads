@@ -1,9 +1,27 @@
 html {
-    box-sizing: border-box;
     /* Prevents extra space and extra height to the page */
+    box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 body {
     margin: 0;
     min-height: 100vh;
+    background-color: #EAEAEA;
+}
+section {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Navbar */
+nav {
+    z-index: 10;
+    position: fixed;
+    width: 100vw;
+    padding: 1%;
+    background-color: rgb(234, 234, 234, 50%);
 }
