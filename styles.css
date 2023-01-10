@@ -13,15 +13,21 @@ section {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    /* align-items: center; */
+    /* flex-direction: column; */
 }
 
 /* Navbar */
 nav {
     z-index: 10;
-    position: fixed;
-    width: 100vw;
+    /* position: fixed; */
+    /* width: 100vw; */
     padding: 1%;
     background-color: rgb(234, 234, 234, 50%);
+}
+
+/* About Section */
+.bookshelf {
+    height: 50%;
+    max-width: 100%;
 }
