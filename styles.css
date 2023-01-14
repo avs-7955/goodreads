@@ -30,6 +30,10 @@ section {
     height:400px;
     object-fit: cover;
 }
+.carousel-control-prev,.carousel-control-next{
+    display: block;
+    width: 7%;
+}
 /* About Section */
 .bookshelf {
     height: 50%;
