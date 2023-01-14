@@ -19,6 +19,7 @@ section {
     /* position: fixed; */
     /* width: 100vw; */
     padding: 1%;
+    padding-left: 10%;
     background-color: rgb(234, 234, 234, 50%);
     /* background-color: burlywood; */
 }
