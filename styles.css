@@ -26,7 +26,7 @@ section {
     width: 100%;
 }
 .carousel img{
-    height:400px;
+    height:350px;
     object-fit: cover;
 }
 .carousel-control-prev,.carousel-control-next{
