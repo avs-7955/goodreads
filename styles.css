@@ -26,12 +26,23 @@ section {
     width: 100%;
 }
 .carousel img{
-    height:350px;
+    height:325px;
     object-fit: cover;
 }
 .carousel-control-prev,.carousel-control-next{
     display: block;
     width: 7%;
+}
+
+/* For Trending section cards */
+
+.trending-sec{
+    margin: 3%;
+    margin-top: 13%;
+}
+.trending-sec img{
+    object-fit: cover;
+    height: 100%;
 }
 /* About Section */
 .bookshelf {
