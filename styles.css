@@ -39,9 +39,8 @@ section {
 
 /* ------------------------------------------ For Trending section cards ------------------------------------------ */
 
-.trending-sec{
-    margin: 3%;
-    margin-top: 7%;
+.trending-col{
+    margin-top: 2%;
 }
 .trending-sec img{
     object-fit: cover;
